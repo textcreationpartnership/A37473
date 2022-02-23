@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Honourable Henry Booth, Esq spoken in Chester March 2 1680/1, at his being elected one of the knights of the shire for that county to serve in the Parliament summon'd to meet at Oxford the 21 of the said month.</title>
+            <author>Warrington, Henry Booth, Earl of, 1652-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37473</idno>
+            <idno type="STC">Wing D881</idno>
+            <idno type="STC">ESTC R27289</idno>
+            <idno type="EEBO-CITATION">09794545</idno>
+            <idno type="OCLC">ocm 09794545</idno>
+            <idno type="VID">44110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44110)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1354:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Honourable Henry Booth, Esq spoken in Chester March 2 1680/1, at his being elected one of the knights of the shire for that county to serve in the Parliament summon'd to meet at Oxford the 21 of the said month.</title>
+                  <author>Warrington, Henry Booth, Earl of, 1652-1694.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Minshall and are to be sold by Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Cheshire (England) --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:44110:1" rendition="simple:additions"/>
+            <head>THE SPEECH of the Honourable Henry Booth <abbr>Eſq</abbr> Spoken in CHESTER March 2. 1680/1.</head>
+            <head type="sub">At his being Elected one of the Knights of the Shire for that County, to ſerve in the Parliament, Summon'd to meet at <hi>Oxford</hi> the 21. of the ſaid Month.</head>
+            <opener>
+               <salute>Gentlemen and Countreymen,</salute>
+            </opener>
+            <p>I Muſt acknowledge that God hath been good unto me from my Cradle to this moment, and of all his Providences to me there is none for which I have greater reaſon to bleſs his holy name, than that he hath enabled me to govern my ſelf and actions ſo, as to gain your good opinion and kindneſs, and I cannot but own I have your favour accom<g ref="char:EOLhyphen"/>panied with all the obliging Circumſtances imaginable: for the firſt time that you were plea<g ref="char:EOLhyphen"/>ſed to command my Service was in the 18 Years Parliament, upon the death of Sir <hi>Foulk Lucy,</hi> who had ſerved you faithfully in that Parliament; and though I was raw and unacquainted with thoſe affairs, and without any Tryal of my Integrity, you ventured all you had in my hands at a time when <hi>England</hi> was in danger to be loſt for want of a Vote: For that Parliament chiefly conſiſted of ſuch as ſold their Country for private advantage, and would have ſold their King too, if they could have made a better market; I ſerved you ſome time in that Parliament, at laſt it was Diſſolved, and a new one called, and then as if you had approved of what I did, you thought fit to imploy me again in that Service, though you laid him aſide who had been my Colleague; that Parliament continued not long, but was Diſſolved, and a new one called; and then again a third time you thought me fit to repreſent you in Parliament, though as you had done before you ſet him aſide whom you had ſent along with me, and Choſe a new one in his room; but why you did me ſo Singular an honour as to continue me in your Service two Parliaments together, and did not the like to the other Gentlemen, it is not for me to give the reaſons of it, thoſe are beſt known to your ſelves. This is now the fourth time that I have waited on you on the like occaſion, and it is not a leſſening of your former kindneſs, that you have not changed my former Partner; but rather a Confirmation of it, becauſe that the firſt time you have continued him is when he appears to be of my opinion; and that which
+<pb n="2" facs="tcp:44110:2"/>ſtill adds weight to your kindneſs is, that notwithſtanding all this ſtir, this buſtle, this unneceſſary charge and expence, all the Stories by which I have been traduced, you have not been prevailed upon to withdraw or diminiſh your favour.</p>
+            <p>Gentlemen, I humbly beg your Patience to ſpeak a few words in anſwer to what they ſay of me, leſt by Silence I may ſeem to cry Amen to their reports and Stories; the firſt thing they reported, was that I would not ſtand again, but would decline your Service: but withall they give no reaſons for it, only it is ſo becauſe they ſaid it; but what reaſon there is to con<g ref="char:EOLhyphen"/>tradict them now who ſaid ſo the laſt time, and how true it was you well remember. So that this being the Second time that they have told you the ſelf ſame falſhoods, I hope for the future that others will believe them as little as you have done. It was reported that I was kill'd without giving any reaſons or Circumſtances, and that to this alſo they expected an implicit belief, I wiſh they are not for an implicit faith in all things; it was truly an excellent Artifice to threap you out of your Votes; yet had I been kill'd, had it been for your Service, I ſhould have thought my ſelf well beſtowed, and rather meet than avoid the occaſion of my Death. They t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l you alſo that I am very obnoxious to the King, but they do not tell you that I am reſtored to my former Station of my Commiſſion of the Peace, without ſeeking or deſiring it, it cannot be imagined that his Majeſty would be ſo Gra<g ref="char:EOLhyphen"/>cious to a man of whom he hath an ill opinion, and it is a reflection to his Majeſty to think he will do a thing of that Nature out of any regard whatſoever, but when a thing carries its weight and reaſons with it; ſo that by this you may diſcern how all their reports are grounded, being rather the effects of their deſires than that the thing is truly ſo.</p>
+            <p>It ſeems the Gentlemen are much diſpleaſed that this County have frequently command<g ref="char:EOLhyphen"/>ed thoſe of my Family to ſerve them in Parliament, they call it an entailing upon the Fa<g ref="char:EOLhyphen"/>mily, but they are not pleaſed to vouchſafe the reaſons why the Son may not be imployed as well as the Father, in caſe he proves as fit for it; but the truth is, they would govern you, and are angry that you will be your own chuſers; yet whether in this they deſign to ſerve you or their own ends, I ſubmit to your Judgement; but as to my own particular, they think the County highly—that I have ſerved you in ſeveral Parliaments. Alas Gentlemen, I know I am much inferiour in Parts and Learning to a great many, but in faithfulneſs to your Intereſt, I will ſubmit to no man; but if you would obſerve it, they would impoſe that upon you which they would not have done to themſelves. If they have a Servant who hath ſerved them faithfully, they would not take a new one in his room; be<g ref="char:EOLhyphen"/>cauſe they have entertained him ſeveral years; but you muſt change your Members as oft as you have new Parliaments, though they ſerve you well, and you ought to hate them becauſe they would have it ſo: for they give no better reaſons for it; but whether they ſeek your good or their private regard I leave to you to determine.</p>
+            <p>A Reverend Gentleman at <hi>Northwich</hi> was pleaſed to tell you, that you muſt not chuſe the ſame Members again, for if you did, the King and Parliament would not agree. I won<g ref="char:EOLhyphen"/>der how long he hath been one of the Kings Cabinet Council that he can tell ſo well before; if we may believe the greateſt Miniſters, they ſay otherwiſe, and that the King out of his gracious diſpoſition to his people will deny himſelf in that which is moſt dear, rather than break with his people, ſo that either he or they are out; and I am not convinced that he is infallible, and am apt to believe that he is in the wrong, ſince I have ob<g ref="char:EOLhyphen"/>ſerved that they are for the moſt part miſtaken, who take upon them to judge of matters when they are at ſo great a diſtance from <hi>White-Hall,</hi> though it may be remembred that this Gentleman hath an affair at <hi>London,</hi> that requires his preſence much oftner than he is pleaſed to afford it; and but that great wits are unhappy in ſhort memories, that Gentleman could not have forgot that if the Parliament had continued, one of his Cloth had been ſeverely reproved for medling with matters not belonging to his Function, I mean Mr. <hi>Thomſon</hi> of <hi>Briſtol,</hi> and I hear there is ſo great a number of the laſt Houſe choſen, and like to be choſen, that his fault will be remembred, which by the way, Gen<g ref="char:EOLhyphen"/>tlemen, is the Judgement of you in your choice of me, you doing that which the reſt of the Nation hath done, and where any change is, it is only to reject thoſe that were Penſio<g ref="char:EOLhyphen"/>ners, or elſe vehemently ſuſpected to be Mercenaries. But I could wiſh it were not the opinion of too many, that the way to recommend themſelves as true Sons of the Church is to Preach ſeldom, and meddle with State affairs more.</p>
+            <p>I hear ſome have taken offence, becauſe at <hi>Northwich</hi> I did commend the laſt Houſe of Commons; truly Gentlemen I only gave it as my Opinion, and till the contrary doth appear I muſt believe that for Riches, Integrity, Learning, Experience, and all things that are expedi<g ref="char:EOLhyphen"/>ent for Members of that Houſe, <hi>England</hi> never had a better; and why the Parliament was Diſſolved I know not, for they who adviſed it, have neither dared to own it, nor the reaſons for it. There is one thing I could not but take notice of, in the oppoſition
+<pb n="3" facs="tcp:44110:2"/>that hath been made againſt me; If you will obſerve, they are the perſons that were moſt inveterate one againſt another in the diſpute between Sr. <hi>Philip Egerton</hi> and my Cou<g ref="char:EOLhyphen"/>ſin <hi>Chollomondley;</hi> but to oppoſe me they are united as one man. If their new made Friend<g ref="char:EOLhyphen"/>ſhip be ſincere, and they have this way to do it, I am very glad I have been the occaſion of their reconciliation; but if in this matter alone they are cemented, then it doth diſco<g ref="char:EOLhyphen"/>ver upon what principles they act, and they are to be blamed, and not the Gentlemen who were ſet up to oppoſe me; for I believe them both to be very worthy men, one of them is my Neighbour, and I will do him what Service I can, and for the other he ſhall find me a Gentleman if he hath occaſion to uſe me.</p>
+            <p>Gentlemen, I have as well as I can repeated the particular charges againſt me, I had but a ſhort time to recollect my ſelf: there remains yet a general Charge which I deſire to ſpeak to; and truly it is an heavy charge, a charge not to be born if I were guilty of it. They ſay I am an evil man as to the King and Church; I wiſh my accuſers had either ſo much power or will to ſerve the King or Church as I have; and becauſe I do not know my ſelf to be guilty as to either of them, I hold my ſelf obliged to ſay ſomething in my Vindication.</p>
+            <p>I know not where I ever gave my Vote to impair the Kings Prerogative; for this is my principle and ever hath been my opinion, that the Kings Prerogative when rightly uſed, is for the good and Benefit of the People; and the Liberties and Properties of the People are for the ſupport of the Crown and Kings Prerogative, when they are not abuſed; but this bleſſed Harmony may ſometimes be diſordered either by the influence of ſome ill Coun<g ref="char:EOLhyphen"/>ſel about the King, who to obtain their own ends, do not care to ruin their King and Maſter; or elſe from the reſtleſs Spirits of ſome ambitious men of broken fortunes, who hope to repair them out of other mens Eſtates. But it ſeems that I and the Houſe of Com<g ref="char:EOLhyphen"/>mons are much to blame, becauſe by one of our Votes we forbid the People to lend Money upon the Revenue by way of anticipation: I never knew it was a Crime to paſs a Vote the Law had juſtified, for the Law will maintain every part of that Vote; and therefore I need ſay no more of it, and beſides this is not a place to argue it in. As for my part I'll do my beſt to preſerve the Kings Prerogative, and the way to do it is neither to add nor diminiſh; for to make a King abſolute is not to ſupport but pull down his Prerogative, for the King holds his Prerogative by the Law, and if that be deſtroy'd, the Title is to be diſpu<g ref="char:EOLhyphen"/>ted by the Sword, and he that hath the ſharpeſt will prove to have the beſt right. As to the Church I am for it as it is now Eſtabliſhed under Epiſcopacy, but I would have them to be ſuch as St. <hi>Paul</hi> to <hi>Tim.</hi> in his firſt Book and 3 <hi>chap.</hi> deſcribes, and when they live according<g ref="char:EOLhyphen"/>ly, I have as great a reverence for them as any man, but when they live otherwiſe they prove to be—&amp; a ruin of the Church, and ought to be abhorr'd of all true Chriſtians. And for Ceremonies I take them not to be neceſſary to Salvation, but for decency and order ſake, and I conceive, this Ceremony is ſo much the more neceſſary, as it tends to the more effectual uni<g ref="char:EOLhyphen"/>ting of Proteſtants, and to preſerve Peace and concord in the Church: I am of opinion the Church is in danger, and I'le do my beſt to ſupport it, and as the caſe ſtands we muſt either bring in Proteſtants or Papiſts; I am for bringing in Proteſtants, and that is my Crime; but you are pleaſed to judge me to be in the right. Now I will no longer doubt of my opinion, I am ſure he that is againſt bringing in Proteſtants is for bringing in Papiſts; and whether it be more profitable to ſupport the Church by uniting of thoſe who differ in Ceremonies, or thoſe who differ in Fundamentals I think is very plain. Is he a wiſe man who if his houſe be falling, by reaſon of too much weight upon the roof, will lay more upon it, rather than prop it up and take off ſome of the weight? So they who take the Church to conſiſt of Ceremonies, muſt pardon me that I am not of their opinion, ſince the word of God warrants no ſuch thing, and my reaſon tells me that they are too much intereſted in the cauſe to be fit judges: for with them he is accounted a good Son of the Church, who keeps a great ſtir about Ceremonies, though he live never ſo ill a life, and perhaps is drunk when he performs his Devotion: but if a man ſeem to be indifferent as to Ceremonies and make them no more than indeed they be, yet in Practice Conforms more than he that makes a greater noiſe about them, though he live never ſo godly a life, and as near as he can to the rule of Gods word, yet he is a Fanatick and an enemy to the Church; but God Almighty tells us he will have mercy and not Sacrifice.</p>
+            <p>Gentlemen, They who accuſe me for an enemy to the King and Church have left you out of the ſtory; but I hope I ſhall not forget you, but remember on whoſe errand I am ſent; and as I have hitherto ſtuck to your intereſt, I hope nothing will draw me aſide from it, and if I know my own heart, I am perſwaded that neither rewards, threats, hopes nor fears will prevail upon me. I deſire nothing but to promote Gods glory and the intereſt of the King and people, and if it ſhall pleaſe God to let me ſee the Proteſtant Religion and Government eſtabliſhed, I ſhall think I have lived long enough, and I ſhall be willing
+<pb n="4" facs="tcp:44110:3"/>at that inſtant to reſign my breath. Gentlemen, I thought good to ſay this to you, and I thank you for your patience, and hope I ſhall ſo behave my ſelf in your Service, that I ſhall make it appear I am ſenſible of the honour you have done me.</p>
+            <closer>I humbly thank you all.</closer>
+         </div>
+         <div type="letter">
+            <head>To the Honourable HENRY BOOTH <abbr>Eſq</abbr> and Sir ROB. COTTON, Kt. &amp; Bar.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WE the Gentlemen and Free-holders of the County Palatine of <hi>Cheſter,</hi> who have by a Free and unanimous conſent Re-elected you to be our Repreſentatives in the approaching Parliament, do thankfully acknowledge your joynt integrity and correſpondence with the worthy and eminent members of the laſt Parliament, who in ſo ſignal (and never to be forgotten) a man<g ref="char:EOLhyphen"/>ner aſſerted the Rights of Petitioning, the <g ref="char:V">Ʋ</g>nion, Supports and Growth of the true Proteſtant Reli<g ref="char:EOLhyphen"/>gion eſtabliſhed by Law: And the only Expedient (we think), to Entail theſe things to our Poſterity, is to ſtick to what the Parliament concluded as to the <hi>Duke of York,</hi> and all Popiſh Succeſſours, and to provide for the Defence and Safety of his Majeſties moſt Sacred Perſon, the vigorous and Sedulous Diſcovery of that horrid Popiſh Plot, and to puniſh all Sham-plotters which we eſteem the worſt of villains, without which his Imperial Majeſty can neither be eaſie nor ſecure.</p>
+            <p>Theſe with thoſe great and excellent things then under your Conſideration, make us confident of your ſincerity and future proceedings, which that they may be happy is our Prayer, and will be a ſupport-to all thoſe that wiſh a bleſſing to his Moſt Sacred Majeſty, and theſe diſtreſſed Kingdoms; we likewiſe deſire that your Votes may continue to be Printed, and till the effects we hope for (on which the happineſs of both Church and State depend) are accompliſhed, we may thence read the current of your Conſent and <g ref="char:V">Ʋ</g>nion.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Minſhall</hi> Bookſeller in <hi>Cheſter,</hi> and are to be ſold by <hi>Langley Curtis</hi> in <hi>Goat</hi> Court without <hi>Ludgate.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
